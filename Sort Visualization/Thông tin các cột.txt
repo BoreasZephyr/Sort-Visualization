@@ -1,0 +1,8 @@
+﻿Khoảng trống khung animation: 975
+Chiều rộng cột: 52
+Chiều dài cột có chỉ số 1: 20
+1 đơn vị: 5
+Khoảng cách 2 cột: 20
+Số lượng cột lớn nhất - ít nhất: 14 - 7
+Vị trí bắt đầu từ trái sang x: 39
+Vị trí y nhỏ nhất: 366
